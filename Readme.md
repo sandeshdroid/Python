@@ -1,0 +1,1 @@
+https://blog.devgenius.io/keep-your-notes-in-git-the-easy-way-3df3fe1f5b01
